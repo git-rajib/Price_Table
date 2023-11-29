@@ -1,0 +1,19 @@
+/* Base / General CSS */
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+}
+
+.container h1{
+    text-align: center;
+    font-size: 35px;    
+}
